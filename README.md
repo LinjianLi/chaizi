@@ -51,3 +51,7 @@
 本表依照創作共用（創用CC/知識共享）姓名標示（署名）協議發佈。
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">創用 CC 姓名標示 3.0 未本地化 授權條款</a>授權.
+
+## 内容修改
+
+原始 repo 只有 `.txt` 版本的文件，我自己转换了 `.csv` 格式，并且**今后我只会维护 `.csv` 格式的文件**。
